@@ -35,6 +35,7 @@ Footvaalvica: Programmer, Writer, Sound Designer, Producer and Game Designer
 Martim: Character Artist
 Backgrounds: NoranekoGames and GuttyKreum
 UI: Novel Kit
+Chess Minigame by RuolinZheng08
 
 Some music graciously borrowed from: Persona 4.
 Igor Sprite graciously borrowed from: ElijahCristie on DeviantArt.
